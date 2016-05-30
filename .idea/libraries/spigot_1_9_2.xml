@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="spigot-1.9.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/Cały Pulpit/eclipse/CraftBukkit/spigot-1.9.2.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Cały Pulpit/eclipse/CraftBukkit/Skript.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Desktop/Cały Pulpit/eclipse/CraftBukkit/spigot-1.9.2.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Cały Pulpit/eclipse/CraftBukkit/Skript.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Cały Pulpit/eclipse/CraftBukkit/Skript.jar!/ch/njol/util/coll/iterator" />
+    </SOURCES>
+  </library>
+</component>
