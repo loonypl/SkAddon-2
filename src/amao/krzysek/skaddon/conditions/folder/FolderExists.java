@@ -27,7 +27,7 @@ public class FolderExists extends Condition {
 
     @Override
     public boolean init(Expression<?>[] expr, int i, Kleenean kleenean, SkriptParser.ParseResult parseResult) {
-
+        folder = expr[0];
         return true;
     }
 
